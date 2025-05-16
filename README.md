@@ -2,4 +2,5 @@
 
 # **db_setting.py**
 用sqlite3創建現金/股票資料庫儲存輸入的資料
+
 ![image](https://github.com/user-attachments/assets/36494d2d-6fef-42bd-a67d-36001a612d5c)
