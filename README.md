@@ -21,6 +21,8 @@
 ![image](https://github.com/user-attachments/assets/c1ea5fdf-cb19-4d28-8518-411e7f1360ef)
 
 ## **index.html**
+![image](https://github.com/user-attachments/assets/86094275-7dd6-4eb4-9c53-96b22daf8a79)
+
 網頁主頁面:
 顯示現金庫存、現金更動紀錄(含刪除按鈕功能)、股票庫存(含刪除功能)、股票庫存占比圖、資產比例占比圖
 
