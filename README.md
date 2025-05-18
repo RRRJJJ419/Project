@@ -20,6 +20,8 @@
 # **templates資料夾**
 ![image](https://github.com/user-attachments/assets/c1ea5fdf-cb19-4d28-8518-411e7f1360ef)
 
+裡面放所有的html檔(網頁內容呈現)
+
 ## **index.html**
 ![image](https://github.com/user-attachments/assets/86094275-7dd6-4eb4-9c53-96b22daf8a79)
 
@@ -43,6 +45,10 @@
 
 股票庫存頁面(提交新增股票買入資訊表單)
 
+# **static資料夾**
+![image](https://github.com/user-attachments/assets/0f94affc-3d52-49cd-a91e-84c4c7b5febe)
+
+存放輸出的股票圓餅圖和資產圓餅圖
 
 
 
