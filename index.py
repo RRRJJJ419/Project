@@ -95,10 +95,10 @@ def home():
         ax.pie(sizes, labels=labels, autopct=None, shadow=None)
         fig.subplots_adjust(top=1, bottom=0, right=1,
                             left=0, hspace=0, wspace=0)
-        plt.savefig("static/piechart.jpg", dpi=200)
+        plt.savefig("static/stock.jpg", dpi=100)
     else:
         try:
-            os.remove('static/piechart.jpg')
+            os.remove('static/stock.jpg')
         except:
             pass
 
@@ -111,14 +111,14 @@ def home():
         ax.pie(sizes, labels=labels, autopct=None, shadow=None)
         fig.subplots_adjust(top=1, bottom=0, right=1,
                             left=0, hspace=0, wspace=0)
-        plt.savefig("static/piechart2.jpg", dpi=200)
+        plt.savefig("static/property.jpg", dpi=100)
     else:
         try:
-            os.remove('static/piechart2.jpg')
+            os.remove('static/property.jpg')
         except:
             pass
 
-    data = {'show_pic_1': os.path.exists('static/piechart.jpg'), 'show_pic_2': os.path.exists('static/piechart2.jpg'),
+    data = {'show_pic_1': os.path.exists('static/stock.jpg'), 'show_pic_2': os.path.exists('static/property.jpg'),
             'total': total, 'currency': currency['USDTWD']['Exrate'], 'ud': us_dollars,
             'td': taiwanese_dollars, 'cash_result': cash_result, 'stock_info': stock_info}
 
