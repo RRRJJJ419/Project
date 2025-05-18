@@ -46,7 +46,8 @@
 股票庫存頁面(提交新增股票買入資訊表單)
 
 # **static資料夾**
-![image](https://github.com/user-attachments/assets/0f94affc-3d52-49cd-a91e-84c4c7b5febe)
+![image](https://github.com/user-attachments/assets/01752714-cdaa-4209-9512-de41c258bd7c)
+
 
 存放輸出的股票圓餅圖和資產圓餅圖
 
